@@ -1,0 +1,35 @@
+body {
+    padding: 12px;
+    background-color: rgb(233, 236, 240);
+    text-align: center; 
+}
+
+body a {
+    cursor: pointer;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+#nova-tarefa {
+    height: 35px;
+    width: 500px;
+}
+
+form button {
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
+
+
+
